@@ -8,6 +8,7 @@
      </php> 
  
  
+ 
      <testsuites> 
          <testsuite name="Hello World Test Suite"> 
              <directory>./</directory> 
