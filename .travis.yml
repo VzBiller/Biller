@@ -33,6 +33,7 @@ env:
 #script: phpunit --configuration phpunit_mysql.xml --coverage-text
 script: sh sample.sh
 
+# Configure deploy section only
  deploy:
    edge: true
    provider: cloudfoundry
